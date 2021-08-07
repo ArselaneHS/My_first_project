@@ -1,0 +1,25 @@
+---
+title: "A R Markdown file"
+author: "Arselane HS"
+date: "07/08/2021"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Explanation
+
+This is an R Markdown document that i will add to my first project in the **"specialisation in data science"** course.
+
+
+
+```{a bloc of code}
+Print("here is a bloc of code in an RMarkdown document")
+```
+
+[here is a link to a cool video](https://www.youtube.com/watch?v=yuVqxCSsE7c)
+
+
+
